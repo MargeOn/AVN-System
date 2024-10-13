@@ -1,0 +1,7 @@
+Common:thi tien,tien@gmail.com,32659856,1564,2000;Display:0,0,0;Sound:0,0,0,0;General:GMT+07:00,Korean
+Common:hoai nhu,nhu@gmail.com,12345678,1236,1000;Display:2,20,30;Sound:0,0,0,0;General:GMT-12:00,English
+Common:minh thu,thu@gmail.com,32365498,1236,1234;Display:2,5,6;Sound:0,0,0,0;General:GMT-12:00,English
+Common:nguyen bien,bi@gmail.com,01234567,123,1265;Display:1,2,3;Sound:0,0,0,0;General:GMT-12:00,English
+Common:nguyen bien,bien@gmail.com,42345678,1265,1032;Display:1,2,3;Sound:1,50,60,40;General:GMT-12:00,English
+Common:thao vi,vithao@gmail.com,12569871,125,1456;Display:0,0,0;Sound:0,0,0,0;General:GMT+09:00,Korean
+Common:hoai thuong,thuongvo@gmail.com,54698732,1000,3000;Display:10,50,40;Sound:40,60,100,20;General:GMT+09:00,Korean
