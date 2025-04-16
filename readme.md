@@ -20,17 +20,8 @@
 - Thao tác đọc ghi file.
 
 ## Cấu trúc hệ thống có:
-- Hàm main()
-- Lớp Car
-- Lớp User
-- Lớp AVN
-- Lớp Display
-- Lớp Sound
-- Lớp General
-- Lớp DataFile
-- Các hàm kiểm tra định dạng dữ liệu
 * Mối quan hệ giữa các lớp được thể hiện bằng Class Diagram
-
+![](ImageAVN/ClassDiagram.png)
 ## Cấu trúc chương trình: 
 Mỗi xe sẽ có các thông số như tên xe, mã số cá nhân, email người sử dụng, ODO, thông tin km cần đến để bảo dưỡng xe và 3 chức năng Display, Sound, General. Cụ thể như sau:
 - Mảng vector<Car> ListVehicle là mảng toàn cục và mảng sẽ lưu các thông tin của xe. Các thao tác trên hệ thống sẽ thực hiện ở file main.cpp.
